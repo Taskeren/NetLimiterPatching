@@ -9,6 +9,13 @@ Don't report any problem if you are using other versions.
 
 You can do the same thing on different versions on your own, using dnSpy (or dnSpyEx) to change the codes in the methods.
 
+## Usage
+
+1. Make sure your NetLimiter version is correct.
+2. You can download these files and drag into your NetLimiter folder, **when the service is stopped**.
+
+You can start/stop the service by `net start nlsvc` and `net stop nlsvc`, in cmd/powershell as administrator.
+
 ## Changes
 
 ### NetLimiter.dll
