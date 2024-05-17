@@ -11,6 +11,16 @@ You can do the same thing on different versions on your own, using dnSpy (or dnS
 
 ## Usage
 
+### [API-Enabler](https://github.com/Taskeren/API-Enabler)
+
+With the API-Enabler, we can install and patch it in one go.
+
+Run `Install.ps1` with administrator privileges, and wait for installation.
+
+If it fails to install and patch, you can report the problem to the issues with detailed information.
+
+### Manual
+
 1. Make sure your NetLimiter version is correct.
 2. You can download these files and drag into your NetLimiter folder, **when the service is stopped**.
 
